@@ -1,8 +1,6 @@
-# Digital Investigation Lab
-
+# Digital Investigation (Simulated Case)
 ## Overview
-## Overview
-This lab simulates a digital forensic investigation associated with a student’s death. The objective is to analyse digital evidence from multiple devices, including disk images, memory dumps, network captures, and mobile devices. The investigation focuses on reconstructing events, identifying relevant artefacts, and documenting findings to support a structured forensic case study.
+This lab simulates a digital forensic investigation associated with a student’s death. The objective is to analyse digital evidence from multiple devices, including disk images, memory dumps, network captures, and mobile devices. All analysis and documentation follow accepted digital forensic procedures and best practices, ensuring that findings are structured in a way that could be considered court-admissible. The investigation focuses on reconstructing events, identifying relevant artefacts, and documenting findings to support a structured forensic case study.
 
 The investigation includes the following pieces of evidence:
 
