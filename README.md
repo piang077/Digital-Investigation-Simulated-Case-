@@ -18,7 +18,7 @@ Click on each link below to view a detailed analysis of each piece of evidence:
 - [Timeline Analysis and Conclusions](Timeline-Analysis.pdf)
 
 
-## Recommendations when collecting digital evidence
+## Recommendations When Collecting Digital Evidence
 When collecting digital evidence, it is crucial to ensure the integrity and validity of the data obtained. Here are tailored recommendations for the forensic       team regarding the specific evidence items:
 
 **Disk Images (Evidence A & D)**:
