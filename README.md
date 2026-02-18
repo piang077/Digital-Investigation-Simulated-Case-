@@ -1,6 +1,4 @@
 # Digital Investigation Lab
-
-## Overview
 ## Overview
 This lab simulates a digital forensic investigation on multiple devices related to a case scenario. The objective is to collect and analyse digital evidence and reconstruct events related to the case.
 
