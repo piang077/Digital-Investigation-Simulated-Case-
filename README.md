@@ -12,9 +12,11 @@ The investigation includes the following pieces of evidence:
 Click on each link below to view a detailed analysis of each piece of evidence:
 
 - [Evidence A – Desktop Computer](Evidence-A.pdf)  
-- [Evidence B – Network Capture](evidence-b.md)  
-- [Evidence C – Memory Dump](evidence-c.md)  
-- [Evidence D – Mobile Phone Disk Image](evidence-d.md)
+- [Evidence B – Network Capture](Evidence-B.pdf)  
+- [Evidence C – Memory Dump](Evidence-C.pdf)  
+- [Evidence D – Mobile Phone Disk Image](Evidence-D.pdf)
+- [Timeline Analysis of the Pieces of Evidence, Final Analysis & Conclusions](Timeline Analysis of the Pieces of Evidence , Final Analysis & Conclusions.pdf)
+
 
 ## Recommendations when collecting digital evidence
 When collecting digital evidence, it is crucial to ensure the integrity and validity of the data obtained. Here are tailored recommendations for the forensic       team regarding the specific evidence items:
