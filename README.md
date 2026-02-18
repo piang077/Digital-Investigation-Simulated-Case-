@@ -16,7 +16,7 @@ Click on each link below to view a detailed analysis of each piece of evidence:
 - [Evidence C – Memory Dump](evidence-c.md)  
 - [Evidence D – Mobile Phone Disk Image](evidence-d.md)
 
-- Recommendations for Forensics Team
+## Recommendations for Forensics Team
 - When collecting digital evidence, it is crucial to ensure the integrity and validity of the data obtained. Here are tailored recommendations for the forensic       team regarding the specific evidence items:
 -Disk Images (Evidence A & D):
 -Method: Use a write-blocker to prevent alterations to the original media when creating disk images. Always calculate checksums (e.g., MD5) immediately after acquisition to confirm data integrity.
